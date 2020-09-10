@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="str_logo">JUMP</string>
+    <string name="str_other_login_method">Hoặc kết nối với mạng xã hội</string>
+    <string name="str_sms_charged_noti">Nếu tiếp tục, bạn sẽ nhận được tin nhắn SMS để xác minh. Có thể áp dụng phí tin
+        nhắn và dữ liệu.
+    </string>
+    <string name="str_enter_phone_number">Nhập số điện thoại di động</string>
+    <string name="str_social_link">Hoặc kết nối với mạng xã hội</string>
+    <string name="str_enter_social">Chọn tài khoản</string>
+    //Facebook ID
+    <string name="facebook_application_id">317523792874852</string>
+    <string name="fb_login_protocol_scheme">fb317523792874852</string>
+</resources>
